@@ -26,7 +26,7 @@ function Bottombar() {
                             height={24}
                         />
 
-                        <p className="text-light-1 max-lg:hidden">{link.label}</p>
+                        <p className="text-subtle-medium text-light-1 max-lg:hidden">{link.label}</p>
                     </Link>
                 )}
                 )}
